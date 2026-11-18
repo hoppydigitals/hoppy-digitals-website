@@ -1,0 +1,4 @@
+Add approved original brand assets here:
+- hoppy-logo.png (your existing Hoppy Digitals logo)
+- founder.jpg (your supplied founder portrait)
+Replace portfolio visual placeholders with actual approved project screenshots/video thumbnails before public launch.
